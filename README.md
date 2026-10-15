@@ -48,3 +48,8 @@ Self-hosting is free, and the managed cloud is there when you want it. Get start
 ## Read next
 
 The companion pages carry the rest of the decision: [OpenHands alternatives](https://openhands-alternative.com/openhands-alternatives) compares the open-source options by the job each finishes, [OpenHands vs Kortix](https://openhands-alternative.com/openhands-vs-kortix) sets a coding harness against a whole AI Operating System, and [OpenHands pricing](https://openhands-alternative.com/openhands-pricing) works through what a team pays once the work leaves coding. For the move itself there is [Migrate from OpenHands](https://openhands-alternative.com/migrate-from-openhands), and for governance and self-hosting, [OpenHands for teams](https://openhands-alternative.com/openhands-for-teams).
+
+## More of the decision
+
+- [OpenHands vs GitHub Copilot](https://openhands-alternative.com/openhands-vs-github-copilot) compares a self-hosted harness with a hosted assistant, and where the code and keys live.
+- [OpenHands limitations](https://openhands-alternative.com/openhands-limitations) covers the cost of operating a harness yourself and what a team moves to.
